@@ -5,3 +5,5 @@
 *.tfvars.json
 crash.log
 crash.*.log
+workshop02/inventory.yaml
+workshop02/root@*
